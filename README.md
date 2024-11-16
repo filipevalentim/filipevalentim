@@ -7,7 +7,7 @@
 </div>
 
 <div>
-<img loading="lazy" width="795px" src="https://github.com/filipevalentim/filipevalentim/blob/output/github-snake-dark.svg"/>
+<img loading="lazy" width="795px" height="180em" src="https://github.com/filipevalentim/filipevalentim/blob/output/github-snake-dark.svg"/>
 </div>
 
 </div>
